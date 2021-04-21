@@ -20,11 +20,11 @@
     <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
   </p>
 
-- 🔭 I’m currently working on [FaceIt](https://github.com/gaj23/face-it)
+- 🔭 I’m currently working on [PenPost](https://github.com/penpost)
 
-- 🌱 I’m currently learning **PWAs, React Hooks, Jest**
+- 🌱 I’m currently learning **Jest & GraphQL, **
 
-- 👯 I’m looking to collaborate on [BirdBox](https://github.com/gaj23/birdbox)
+- 👯 I’m looking to collaborate on [BigBirds](https://github.com/gaj23/bigbirds)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaj23](https://github.com/gaj23)
 
